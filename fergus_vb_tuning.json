@@ -1,0 +1,74 @@
+{
+  "image": {
+    "input_path": "/Users/yfujimura/Documents/omi/\u8b1b\u7fa9\u8cc7\u6599/VMP2/2026/vmp2_2026/fountain1_blurry.tif",
+    "original_size": [
+      771,
+      513
+    ],
+    "working_size": [
+      771,
+      513
+    ],
+    "resize_scale": 1.0
+  },
+  "roi": [
+    106,
+    406,
+    235,
+    535
+  ],
+  "max_blur": 37,
+  "rate_multiplier": 2.0,
+  "tolerance_bits_per_pixel": 1e-06,
+  "max_iterations": 150,
+  "scales": [
+    {
+      "size": 3,
+      "hoyer_raw": 0.4635825767430024,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    },
+    {
+      "size": 5,
+      "hoyer_raw": 0.5319453968900216,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    },
+    {
+      "size": 7,
+      "hoyer_raw": 0.5587665387110272,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    },
+    {
+      "size": 9,
+      "hoyer_raw": 0.5696314283497653,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    },
+    {
+      "size": 13,
+      "hoyer_raw": 0.6202162618412576,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    },
+    {
+      "size": 19,
+      "hoyer_raw": 0.6987139543346105,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    },
+    {
+      "size": 27,
+      "hoyer_raw": 0.6944425439608117,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    },
+    {
+      "size": 37,
+      "hoyer_raw": 0.7345693644554774,
+      "iterations": 150,
+      "iteration_limit_reached": true
+    }
+  ]
+}
